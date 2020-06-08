@@ -32,5 +32,5 @@ To connect to H2 db console :
 
 Running Tests
 =============
-The command `mvn clean install` from within a module will run the unit tests in that module.
+Run command `mvn clean install` from within a module will run the unit tests in that module.
 For running the test only use command `mvn test` in the module directory.
